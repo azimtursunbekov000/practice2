@@ -33,7 +33,7 @@ class Practice extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          padding: const EdgeInsets.symmetric(vertical: 40, horizontal: 20),
+          padding: const EdgeInsets.symmetric(vertical: 40, horizontal: 40),
           width: 350,
           height: 450,
           decoration: BoxDecoration(
